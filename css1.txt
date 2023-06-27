@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image:url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height:30vh;
+    background-size:cover;
+}
+
+.diwali-heading {
+    color:white;
+    font-family:Caveat;
+    font-size:30px;
+    width:180px;
+    padding:25px;
+}
+
+.diwali-bottom {
+    background-color:#e6f6ff;
+    height:80vh;
+    text-align:center;
+}
+
+.card {
+    background-color:white;
+    border-radius:15px;
+    width:40vw;
+    height:40vh;
+    text-align:center;
+    padding:25px;
+    margin:10px;
+
+
+}
+
+.diwali-image {
+    height:60px;
+    width:60px;
+}
+
+
+.paragraph {
+    font-size:15px;
+    font-family:Roboto;
+    font-weight:normal;
+    height:20px;
+
+}
+
+.price {
+    font-size:17px;
+    font-weight:bold;
+    height:15px;
+    margin:10px;
+}
